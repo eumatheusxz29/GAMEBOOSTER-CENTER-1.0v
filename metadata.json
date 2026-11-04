@@ -1,0 +1,8 @@
+{
+  "name": "GameBoost Center",
+  "description": "Game center mobile-first com monitoramento de FPS em tempo real, perfis de jogos e otimização guiada com métricas reais de hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
